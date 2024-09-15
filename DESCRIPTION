@@ -1,0 +1,16 @@
+Package: exampleRPackage
+Type: Package
+Title: Super Useful Stuff
+Version: 0.1.0
+Date: 2024-10-15
+Authors@R: person("Charlotte", "Soneson", role = c("aut", "cre"), 
+                  email = "charlottesoneson@gmail.com", 
+                  comment = c(ORCID = "0000-0003-3833-2169"))
+Description: Provides super useful functions that will be helpful in 
+    all future projects.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
