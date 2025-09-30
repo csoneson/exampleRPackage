@@ -11,7 +11,7 @@ This is a very useful R package.
 You can install the development version of exampleRPackage like so:
 
 ``` r
-remotes::install_github("...")
+remotes::install_github("csoneson/exampleRPackage")
 ```
 
 ## Example
